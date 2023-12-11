@@ -45,3 +45,10 @@ p{
     width: 50%;
     background-position: left;
 }
+button{
+    width: 100px;
+    height: 50%;
+    color: azure;
+    background-color:#00A3C4 ;
+    font-display: Hedvig Letters Serif;
+}
